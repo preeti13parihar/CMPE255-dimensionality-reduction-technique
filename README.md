@@ -1,5 +1,9 @@
 ## **Demonstration of various dimensionality reduction techniques**
 
+### Colab Link:
+https://colab.research.google.com/drive/1nA8o1OBZjroh3cj5-yAqVQRJPinj5eN4?usp=sharing
+
+
 ### Steps Performed:
 1. PCA
 2. SVD
